@@ -3,12 +3,12 @@
 +998977576767
 nodira_the_best@gmail.com
 
-Skills
+SKILLS
 - HTML
 - CSS
 - JS
 
-Education
+EDUCATION
 - RSSchool
 
 English level: beginner
