@@ -1,1 +1,1 @@
-Nodira Erkinhojievas
+Nodira Erkinhojieva
