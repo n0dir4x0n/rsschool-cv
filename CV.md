@@ -1,7 +1,8 @@
 # Nodira Erkinhojieva
 
--+998977576767
--nodira_the_best@gmail.com
+- +998977576767
+
+-  nodira_the_best@gmail.com
 
 SKILLS
 - HTML
