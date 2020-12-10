@@ -13,3 +13,5 @@ EDUCATION
 - RSSchool
 
 English level: beginner
+
+https://n0dir4x0n.github.io/rsschool-cv/
